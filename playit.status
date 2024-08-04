@@ -1,104 +1,1350 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1722751521451 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1722799095825 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEb_hLQAAAAAQAAAAEAAAAAAAAAADnyVli_01M5rECKiEzWnT5tUM0748lStZctO9Evz7P7
-
-TUNNELS
-stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722751524559 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEb_hLQAAAAAQAAAAEAAAAAAAAAADnyVli_01M5rECKiEzWnT5tUM0748lStZctO9Evz7P7
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1AAsAAAAAQAAAAEAAAAAAAAAALMFlE8kYY8ugUZHeYhJqqCiCscbLFdiuBuRm5J2Z41-
 
 TUNNELS
 stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722751527628 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722799098940 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEb_hLQAAAAAQAAAAEAAAAAAAAAADnyVli_01M5rECKiEzWnT5tUM0748lStZctO9Evz7P7
-
-TUNNELS
-stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722751530683 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEb_hLQAAAAAQAAAAEAAAAAAAAAADnyVli_01M5rECKiEzWnT5tUM0748lStZctO9Evz7P7
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1AAsAAAAAQAAAAEAAAAAAAAAALMFlE8kYY8ugUZHeYhJqqCiCscbLFdiuBuRm5J2Z41-
 
 TUNNELS
 stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722751533736 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722799102044 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEb_hLQAAAAAQAAAAEAAAAAAAAAADnyVli_01M5rECKiEzWnT5tUM0748lStZctO9Evz7P7
-
-TUNNELS
-stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722751536789 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEb_k65AAAAAQAAAAEAAAAAAAAAAPEUojM01d1pLdxbBc_7LSStM6MlY_T4z7nd6cZHzR4q
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1AAsAAAAAQAAAAEAAAAAAAAAALMFlE8kYY8ugUZHeYhJqqCiCscbLFdiuBuRm5J2Z41-
 
 TUNNELS
 stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722751539890 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722799105126 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEb_k65AAAAAQAAAAEAAAAAAAAAAPEUojM01d1pLdxbBc_7LSStM6MlY_T4z7nd6cZHzR4q
-
-TUNNELS
-stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722751542944 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEb_k65AAAAAQAAAAEAAAAAAAAAAPEUojM01d1pLdxbBc_7LSStM6MlY_T4z7nd6cZHzR4q
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1AAsAAAAAQAAAAEAAAAAAAAAALMFlE8kYY8ugUZHeYhJqqCiCscbLFdiuBuRm5J2Z41-
 
 TUNNELS
 stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722751546000 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722799108200 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEb_k65AAAAAQAAAAEAAAAAAAAAAPEUojM01d1pLdxbBc_7LSStM6MlY_T4z7nd6cZHzR4q
-
-TUNNELS
-stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722751549056 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEb_k65AAAAAQAAAAEAAAAAAAAAAPEUojM01d1pLdxbBc_7LSStM6MlY_T4z7nd6cZHzR4q
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1AAsAAAAAQAAAAEAAAAAAAAAALMFlE8kYY8ugUZHeYhJqqCiCscbLFdiuBuRm5J2Z41-
 
 TUNNELS
 stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722751552127 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722799111272 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEb_oqqAAAAAQAAAAEAAAAAAAAAAENT4XMlekz5anPyi3o36x-ipZgzh8FHcfzwluWoin7c
-
-TUNNELS
-stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722751555236 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEb_oqqAAAAAQAAAAEAAAAAAAAAAENT4XMlekz5anPyi3o36x-ipZgzh8FHcfzwluWoin7c
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1DyDAAAAAQAAAAEAAAAAAAAAAGgOuQnYc-YmlOTUCyV2db51ZMC0IN0roJAWJGZKWfH4
 
 TUNNELS
 stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722751558302 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722799114398 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEb_oqqAAAAAQAAAAEAAAAAAAAAAENT4XMlekz5anPyi3o36x-ipZgzh8FHcfzwluWoin7c
-
-TUNNELS
-stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722751561362 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEb_oqqAAAAAQAAAAEAAAAAAAAAAENT4XMlekz5anPyi3o36x-ipZgzh8FHcfzwluWoin7c
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1DyDAAAAAQAAAAEAAAAAAAAAAGgOuQnYc-YmlOTUCyV2db51ZMC0IN0roJAWJGZKWfH4
 
 TUNNELS
 stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722751564419 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722799117481 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEb_oqqAAAAAQAAAAEAAAAAAAAAAENT4XMlekz5anPyi3o36x-ipZgzh8FHcfzwluWoin7c
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1DyDAAAAAQAAAAEAAAAAAAAAAGgOuQnYc-YmlOTUCyV2db51ZMC0IN0roJAWJGZKWfH4
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799120565 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1DyDAAAAAQAAAAEAAAAAAAAAAGgOuQnYc-YmlOTUCyV2db51ZMC0IN0roJAWJGZKWfH4
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799123630 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1DyDAAAAAQAAAAEAAAAAAAAAAGgOuQnYc-YmlOTUCyV2db51ZMC0IN0roJAWJGZKWfH4
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799126709 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1HjdAAAAAQAAAAEAAAAAAAAAAKTPaxtz1FSlWDVtp1IEfMz3KBA5XMlNfDJr5QHfGPXk
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799129857 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1HjdAAAAAQAAAAEAAAAAAAAAAKTPaxtz1FSlWDVtp1IEfMz3KBA5XMlNfDJr5QHfGPXk
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799132922 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1HjdAAAAAQAAAAEAAAAAAAAAAKTPaxtz1FSlWDVtp1IEfMz3KBA5XMlNfDJr5QHfGPXk
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799135978 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1HjdAAAAAQAAAAEAAAAAAAAAAKTPaxtz1FSlWDVtp1IEfMz3KBA5XMlNfDJr5QHfGPXk
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799139039 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1HjdAAAAAQAAAAEAAAAAAAAAAKTPaxtz1FSlWDVtp1IEfMz3KBA5XMlNfDJr5QHfGPXk
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799142098 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1LTsAAAAAQAAAAEAAAAAAAAAAM1C0YBtm6xDhkS9n5gL8a74XwikCx2IwCCaTtOP-b5G
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799145207 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1LTsAAAAAQAAAAEAAAAAAAAAAM1C0YBtm6xDhkS9n5gL8a74XwikCx2IwCCaTtOP-b5G
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799148276 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1LTsAAAAAQAAAAEAAAAAAAAAAM1C0YBtm6xDhkS9n5gL8a74XwikCx2IwCCaTtOP-b5G
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799151351 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1LTsAAAAAQAAAAEAAAAAAAAAAM1C0YBtm6xDhkS9n5gL8a74XwikCx2IwCCaTtOP-b5G
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799154420 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1LTsAAAAAQAAAAEAAAAAAAAAAM1C0YBtm6xDhkS9n5gL8a74XwikCx2IwCCaTtOP-b5G
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799157483 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1PEFAAAAAQAAAAEAAAAAAAAAAONvQ6Rurp3neInNNiDEyu5ExibDImcVwuyVq4RqKKwb
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799160628 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1PEFAAAAAQAAAAEAAAAAAAAAAONvQ6Rurp3neInNNiDEyu5ExibDImcVwuyVq4RqKKwb
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799163685 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1PEFAAAAAQAAAAEAAAAAAAAAAONvQ6Rurp3neInNNiDEyu5ExibDImcVwuyVq4RqKKwb
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799166739 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1PEFAAAAAQAAAAEAAAAAAAAAAONvQ6Rurp3neInNNiDEyu5ExibDImcVwuyVq4RqKKwb
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799169857 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1PEFAAAAAQAAAAEAAAAAAAAAAONvQ6Rurp3neInNNiDEyu5ExibDImcVwuyVq4RqKKwb
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799172931 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1S1gAAAAAQAAAAEAAAAAAAAAAG1pzukazXuq2Kvm_VVZ__Gyg7T-JuUxiUjbiPlrEZYC
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799176055 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1S1gAAAAAQAAAAEAAAAAAAAAAG1pzukazXuq2Kvm_VVZ__Gyg7T-JuUxiUjbiPlrEZYC
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799179119 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1S1gAAAAAQAAAAEAAAAAAAAAAG1pzukazXuq2Kvm_VVZ__Gyg7T-JuUxiUjbiPlrEZYC
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799182183 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1S1gAAAAAQAAAAEAAAAAAAAAAG1pzukazXuq2Kvm_VVZ__Gyg7T-JuUxiUjbiPlrEZYC
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799185249 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1S1gAAAAAQAAAAEAAAAAAAAAAG1pzukazXuq2Kvm_VVZ__Gyg7T-JuUxiUjbiPlrEZYC
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799188327 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1WmGAAAAAQAAAAEAAAAAAAAAAHUTj-TwGtMX2hBNnpfIGfcEITIwnUE_4UxR8Tpt_Fl6
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799191477 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1WmGAAAAAQAAAAEAAAAAAAAAAHUTj-TwGtMX2hBNnpfIGfcEITIwnUE_4UxR8Tpt_Fl6
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799194557 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1WmGAAAAAQAAAAEAAAAAAAAAAHUTj-TwGtMX2hBNnpfIGfcEITIwnUE_4UxR8Tpt_Fl6
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799197626 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1WmGAAAAAQAAAAEAAAAAAAAAAHUTj-TwGtMX2hBNnpfIGfcEITIwnUE_4UxR8Tpt_Fl6
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799200716 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1WmGAAAAAQAAAAEAAAAAAAAAAHUTj-TwGtMX2hBNnpfIGfcEITIwnUE_4UxR8Tpt_Fl6
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799203773 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1aXbAAAAAQAAAAEAAAAAAAAAACe1gb6KIEpSrfTwV1zKkfa-baEimoUqQNevNbzpkSgD
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799206900 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1aXbAAAAAQAAAAEAAAAAAAAAACe1gb6KIEpSrfTwV1zKkfa-baEimoUqQNevNbzpkSgD
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799209981 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1aXbAAAAAQAAAAEAAAAAAAAAACe1gb6KIEpSrfTwV1zKkfa-baEimoUqQNevNbzpkSgD
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799213083 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1aXbAAAAAQAAAAEAAAAAAAAAACe1gb6KIEpSrfTwV1zKkfa-baEimoUqQNevNbzpkSgD
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799216142 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1aXbAAAAAQAAAAEAAAAAAAAAACe1gb6KIEpSrfTwV1zKkfa-baEimoUqQNevNbzpkSgD
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799219203 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1eIlAAAAAQAAAAEAAAAAAAAAALnWtSnEArnod3jIneKbI-5CIv7dWSmBQ7Z4iL-rlkfO
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799222321 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1eIlAAAAAQAAAAEAAAAAAAAAALnWtSnEArnod3jIneKbI-5CIv7dWSmBQ7Z4iL-rlkfO
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799225377 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1eIlAAAAAQAAAAEAAAAAAAAAALnWtSnEArnod3jIneKbI-5CIv7dWSmBQ7Z4iL-rlkfO
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799228447 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1eIlAAAAAQAAAAEAAAAAAAAAALnWtSnEArnod3jIneKbI-5CIv7dWSmBQ7Z4iL-rlkfO
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799231515 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1eIlAAAAAQAAAAEAAAAAAAAAALnWtSnEArnod3jIneKbI-5CIv7dWSmBQ7Z4iL-rlkfO
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799234571 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1h4jAAAAAQAAAAEAAAAAAAAAAGFqEw1W8oLNdObnc6Um2VxVeY0VnftCRd_HK2BK1F-S
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799237678 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1h4jAAAAAQAAAAEAAAAAAAAAAGFqEw1W8oLNdObnc6Um2VxVeY0VnftCRd_HK2BK1F-S
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799240735 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1h4jAAAAAQAAAAEAAAAAAAAAAGFqEw1W8oLNdObnc6Um2VxVeY0VnftCRd_HK2BK1F-S
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799243790 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1h4jAAAAAQAAAAEAAAAAAAAAAGFqEw1W8oLNdObnc6Um2VxVeY0VnftCRd_HK2BK1F-S
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799246847 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1h4jAAAAAQAAAAEAAAAAAAAAAGFqEw1W8oLNdObnc6Um2VxVeY0VnftCRd_HK2BK1F-S
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799249904 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1loIAAAAAQAAAAEAAAAAAAAAAEzZk8XLKfLzaTuJX1FZFDRDCehML5nH0svZyMsx0Ltq
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799253013 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1loIAAAAAQAAAAEAAAAAAAAAAEzZk8XLKfLzaTuJX1FZFDRDCehML5nH0svZyMsx0Ltq
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799256085 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1loIAAAAAQAAAAEAAAAAAAAAAEzZk8XLKfLzaTuJX1FZFDRDCehML5nH0svZyMsx0Ltq
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799259151 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1loIAAAAAQAAAAEAAAAAAAAAAEzZk8XLKfLzaTuJX1FZFDRDCehML5nH0svZyMsx0Ltq
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799262219 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1loIAAAAAQAAAAEAAAAAAAAAAEzZk8XLKfLzaTuJX1FZFDRDCehML5nH0svZyMsx0Ltq
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799265294 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1pYsAAAAAQAAAAEAAAAAAAAAABxrU8E5Kg3Y7vijsZtg-RTvARD4kW5L88xO8SwehnNi
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799268440 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1pYsAAAAAQAAAAEAAAAAAAAAABxrU8E5Kg3Y7vijsZtg-RTvARD4kW5L88xO8SwehnNi
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799271520 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1pYsAAAAAQAAAAEAAAAAAAAAABxrU8E5Kg3Y7vijsZtg-RTvARD4kW5L88xO8SwehnNi
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799274636 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1pYsAAAAAQAAAAEAAAAAAAAAABxrU8E5Kg3Y7vijsZtg-RTvARD4kW5L88xO8SwehnNi
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799277705 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1pYsAAAAAQAAAAEAAAAAAAAAABxrU8E5Kg3Y7vijsZtg-RTvARD4kW5L88xO8SwehnNi
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799280784 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1tK-AAAAAQAAAAEAAAAAAAAAADO4kkfsje5mx6qH0aUDqzLNXT5M7tU7jnaLYzK-blpe
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799283931 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1tK-AAAAAQAAAAEAAAAAAAAAADO4kkfsje5mx6qH0aUDqzLNXT5M7tU7jnaLYzK-blpe
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799287002 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1tK-AAAAAQAAAAEAAAAAAAAAADO4kkfsje5mx6qH0aUDqzLNXT5M7tU7jnaLYzK-blpe
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799290068 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1tK-AAAAAQAAAAEAAAAAAAAAADO4kkfsje5mx6qH0aUDqzLNXT5M7tU7jnaLYzK-blpe
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799293141 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1tK-AAAAAQAAAAEAAAAAAAAAADO4kkfsje5mx6qH0aUDqzLNXT5M7tU7jnaLYzK-blpe
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799296210 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1w7uAAAAAQAAAAEAAAAAAAAAAFXDzMEmwep0HDN5LtOZYZ5ySmSWepleIT0bBzRdfvR4
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799299343 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1w7uAAAAAQAAAAEAAAAAAAAAAFXDzMEmwep0HDN5LtOZYZ5ySmSWepleIT0bBzRdfvR4
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799302410 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1w7uAAAAAQAAAAEAAAAAAAAAAFXDzMEmwep0HDN5LtOZYZ5ySmSWepleIT0bBzRdfvR4
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799305468 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1w7uAAAAAQAAAAEAAAAAAAAAAFXDzMEmwep0HDN5LtOZYZ5ySmSWepleIT0bBzRdfvR4
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799308527 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1w7uAAAAAQAAAAEAAAAAAAAAAFXDzMEmwep0HDN5LtOZYZ5ySmSWepleIT0bBzRdfvR4
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799311584 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe10r2AAAAAQAAAAEAAAAAAAAAAHKLX7C9ieIqv4R3bEmVA6CJpjg1CjJ6P1J3Sgkyuwos
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799314687 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe10r2AAAAAQAAAAEAAAAAAAAAAHKLX7C9ieIqv4R3bEmVA6CJpjg1CjJ6P1J3Sgkyuwos
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799317741 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe10r2AAAAAQAAAAEAAAAAAAAAAHKLX7C9ieIqv4R3bEmVA6CJpjg1CjJ6P1J3Sgkyuwos
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799320800 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe10r2AAAAAQAAAAEAAAAAAAAAAHKLX7C9ieIqv4R3bEmVA6CJpjg1CjJ6P1J3Sgkyuwos
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799323885 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe10r2AAAAAQAAAAEAAAAAAAAAAHKLX7C9ieIqv4R3bEmVA6CJpjg1CjJ6P1J3Sgkyuwos
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799326962 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe14cTAAAAAQAAAAEAAAAAAAAAAGody9YVqmwOIysr-43mQLGKJ6JO9F6vaStqjfLm2PnJ
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799330083 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe14cTAAAAAQAAAAEAAAAAAAAAAGody9YVqmwOIysr-43mQLGKJ6JO9F6vaStqjfLm2PnJ
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799333137 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe14cTAAAAAQAAAAEAAAAAAAAAAGody9YVqmwOIysr-43mQLGKJ6JO9F6vaStqjfLm2PnJ
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799336219 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe14cTAAAAAQAAAAEAAAAAAAAAAGody9YVqmwOIysr-43mQLGKJ6JO9F6vaStqjfLm2PnJ
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799339275 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe14cTAAAAAQAAAAEAAAAAAAAAAGody9YVqmwOIysr-43mQLGKJ6JO9F6vaStqjfLm2PnJ
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799342330 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe18MUAAAAAQAAAAEAAAAAAAAAAF9SnqFWHq3-xjf3Zb3dCzciIp5V8NnHe6u-BQBBQ5Yg
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799345437 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe18MUAAAAAQAAAAEAAAAAAAAAAF9SnqFWHq3-xjf3Zb3dCzciIp5V8NnHe6u-BQBBQ5Yg
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799348495 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe18MUAAAAAQAAAAEAAAAAAAAAAF9SnqFWHq3-xjf3Zb3dCzciIp5V8NnHe6u-BQBBQ5Yg
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799351553 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe18MUAAAAAQAAAAEAAAAAAAAAAF9SnqFWHq3-xjf3Zb3dCzciIp5V8NnHe6u-BQBBQ5Yg
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799354609 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe18MUAAAAAQAAAAEAAAAAAAAAAF9SnqFWHq3-xjf3Zb3dCzciIp5V8NnHe6u-BQBBQ5Yg
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799357679 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1_8HAAAAAQAAAAEAAAAAAAAAALVXl_vnnEIzWavbmbGUxT0LxnhErgjjxNL_MA17mzZu
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799360804 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1_8HAAAAAQAAAAEAAAAAAAAAALVXl_vnnEIzWavbmbGUxT0LxnhErgjjxNL_MA17mzZu
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799363876 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1_8HAAAAAQAAAAEAAAAAAAAAALVXl_vnnEIzWavbmbGUxT0LxnhErgjjxNL_MA17mzZu
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799366931 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1_8HAAAAAQAAAAEAAAAAAAAAALVXl_vnnEIzWavbmbGUxT0LxnhErgjjxNL_MA17mzZu
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799369994 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe1_8HAAAAAQAAAAEAAAAAAAAAALVXl_vnnEIzWavbmbGUxT0LxnhErgjjxNL_MA17mzZu
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799373058 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2DsdAAAAAQAAAAEAAAAAAAAAAH-E2Tv5JcXeBxenEBKtdEOj2D9H1l3gJw9ypi9vNg2n
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799376170 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2DsdAAAAAQAAAAEAAAAAAAAAAH-E2Tv5JcXeBxenEBKtdEOj2D9H1l3gJw9ypi9vNg2n
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799379229 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2DsdAAAAAQAAAAEAAAAAAAAAAH-E2Tv5JcXeBxenEBKtdEOj2D9H1l3gJw9ypi9vNg2n
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799382285 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2DsdAAAAAQAAAAEAAAAAAAAAAH-E2Tv5JcXeBxenEBKtdEOj2D9H1l3gJw9ypi9vNg2n
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799385361 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2DsdAAAAAQAAAAEAAAAAAAAAAH-E2Tv5JcXeBxenEBKtdEOj2D9H1l3gJw9ypi9vNg2n
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799388432 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2HcsAAAAAQAAAAEAAAAAAAAAAEEDykblPc1rSfprnvXUxNx9HUCrSOd4s7z59wBmVfGJ
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799391551 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2HcsAAAAAQAAAAEAAAAAAAAAAEEDykblPc1rSfprnvXUxNx9HUCrSOd4s7z59wBmVfGJ
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799394609 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2HcsAAAAAQAAAAEAAAAAAAAAAEEDykblPc1rSfprnvXUxNx9HUCrSOd4s7z59wBmVfGJ
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799397679 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2HcsAAAAAQAAAAEAAAAAAAAAAEEDykblPc1rSfprnvXUxNx9HUCrSOd4s7z59wBmVfGJ
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799400744 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2HcsAAAAAQAAAAEAAAAAAAAAAEEDykblPc1rSfprnvXUxNx9HUCrSOd4s7z59wBmVfGJ
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799403813 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2LNBAAAAAQAAAAEAAAAAAAAAAHzPnAPau5j0ohnyeoT6l-AifviKnXac2DahDw7z7hOw
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799406935 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2LNBAAAAAQAAAAEAAAAAAAAAAHzPnAPau5j0ohnyeoT6l-AifviKnXac2DahDw7z7hOw
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799410001 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2LNBAAAAAQAAAAEAAAAAAAAAAHzPnAPau5j0ohnyeoT6l-AifviKnXac2DahDw7z7hOw
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799413061 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2LNBAAAAAQAAAAEAAAAAAAAAAHzPnAPau5j0ohnyeoT6l-AifviKnXac2DahDw7z7hOw
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799416125 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2LNBAAAAAQAAAAEAAAAAAAAAAHzPnAPau5j0ohnyeoT6l-AifviKnXac2DahDw7z7hOw
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799419185 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2O9JAAAAAQAAAAEAAAAAAAAAAPqTBkjZ58m4ENCLJIfglHDy2iGtzq6wIoG2y2NjjnYp
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799422315 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2O9JAAAAAQAAAAEAAAAAAAAAAPqTBkjZ58m4ENCLJIfglHDy2iGtzq6wIoG2y2NjjnYp
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799425398 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2O9JAAAAAQAAAAEAAAAAAAAAAPqTBkjZ58m4ENCLJIfglHDy2iGtzq6wIoG2y2NjjnYp
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799428467 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2O9JAAAAAQAAAAEAAAAAAAAAAPqTBkjZ58m4ENCLJIfglHDy2iGtzq6wIoG2y2NjjnYp
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799431544 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2O9JAAAAAQAAAAEAAAAAAAAAAPqTBkjZ58m4ENCLJIfglHDy2iGtzq6wIoG2y2NjjnYp
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799434608 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2SuLAAAAAQAAAAEAAAAAAAAAAPgtJBRwLG6yJuyUOvt3ibdoFuq5MOab1XANkfIbcXd2
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799437717 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2SuLAAAAAQAAAAEAAAAAAAAAAPgtJBRwLG6yJuyUOvt3ibdoFuq5MOab1XANkfIbcXd2
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799440780 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2SuLAAAAAQAAAAEAAAAAAAAAAPgtJBRwLG6yJuyUOvt3ibdoFuq5MOab1XANkfIbcXd2
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799443839 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2SuLAAAAAQAAAAEAAAAAAAAAAPgtJBRwLG6yJuyUOvt3ibdoFuq5MOab1XANkfIbcXd2
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799446903 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2SuLAAAAAQAAAAEAAAAAAAAAAPgtJBRwLG6yJuyUOvt3ibdoFuq5MOab1XANkfIbcXd2
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799449992 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2WelAAAAAQAAAAEAAAAAAAAAAPqO_dBUE4Rz3AO17j2cY_dZsLkmu6uXHw2UjfIJoc7M
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799453114 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2WelAAAAAQAAAAEAAAAAAAAAAPqO_dBUE4Rz3AO17j2cY_dZsLkmu6uXHw2UjfIJoc7M
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799456170 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2WelAAAAAQAAAAEAAAAAAAAAAPqO_dBUE4Rz3AO17j2cY_dZsLkmu6uXHw2UjfIJoc7M
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799459225 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2WelAAAAAQAAAAEAAAAAAAAAAPqO_dBUE4Rz3AO17j2cY_dZsLkmu6uXHw2UjfIJoc7M
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799462285 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2WelAAAAAQAAAAEAAAAAAAAAAPqO_dBUE4Rz3AO17j2cY_dZsLkmu6uXHw2UjfIJoc7M
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799465346 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2aOdAAAAAQAAAAEAAAAAAAAAAEIxgagKumRPeMoqyvU0ITsBUdP8zLyJsFRZcX3_2eJC
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799468463 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2aOdAAAAAQAAAAEAAAAAAAAAAEIxgagKumRPeMoqyvU0ITsBUdP8zLyJsFRZcX3_2eJC
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799471560 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2aOdAAAAAQAAAAEAAAAAAAAAAEIxgagKumRPeMoqyvU0ITsBUdP8zLyJsFRZcX3_2eJC
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799474635 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2aOdAAAAAQAAAAEAAAAAAAAAAEIxgagKumRPeMoqyvU0ITsBUdP8zLyJsFRZcX3_2eJC
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799477705 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2aOdAAAAAQAAAAEAAAAAAAAAAEIxgagKumRPeMoqyvU0ITsBUdP8zLyJsFRZcX3_2eJC
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799480769 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2d_jAAAAAQAAAAEAAAAAAAAAAEWETAsXQupruxVcWrTj59hIAsQSI9hx2__t5LAdBPuK
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799483910 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2d_jAAAAAQAAAAEAAAAAAAAAAEWETAsXQupruxVcWrTj59hIAsQSI9hx2__t5LAdBPuK
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799486976 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2d_jAAAAAQAAAAEAAAAAAAAAAEWETAsXQupruxVcWrTj59hIAsQSI9hx2__t5LAdBPuK
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799490036 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2d_jAAAAAQAAAAEAAAAAAAAAAEWETAsXQupruxVcWrTj59hIAsQSI9hx2__t5LAdBPuK
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799493091 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2d_jAAAAAQAAAAEAAAAAAAAAAEWETAsXQupruxVcWrTj59hIAsQSI9hx2__t5LAdBPuK
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799496160 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2hv9AAAAAQAAAAEAAAAAAAAAAK7H1HZpzYr5qzMqnWEf87r8AyuVWZbK0gR9KIYfEkOw
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799499291 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2hv9AAAAAQAAAAEAAAAAAAAAAK7H1HZpzYr5qzMqnWEf87r8AyuVWZbK0gR9KIYfEkOw
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799502381 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2hv9AAAAAQAAAAEAAAAAAAAAAK7H1HZpzYr5qzMqnWEf87r8AyuVWZbK0gR9KIYfEkOw
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799505456 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2hv9AAAAAQAAAAEAAAAAAAAAAK7H1HZpzYr5qzMqnWEf87r8AyuVWZbK0gR9KIYfEkOw
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799508525 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2hv9AAAAAQAAAAEAAAAAAAAAAK7H1HZpzYr5qzMqnWEf87r8AyuVWZbK0gR9KIYfEkOw
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799511590 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2lhIAAAAAQAAAAEAAAAAAAAAAMSK4ELuceOX7_aL0r7KMrnH7ET02J6ion5BZ-fqTVeE
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799514712 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2lhIAAAAAQAAAAEAAAAAAAAAAMSK4ELuceOX7_aL0r7KMrnH7ET02J6ion5BZ-fqTVeE
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799517783 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2lhIAAAAAQAAAAEAAAAAAAAAAMSK4ELuceOX7_aL0r7KMrnH7ET02J6ion5BZ-fqTVeE
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799520855 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2lhIAAAAAQAAAAEAAAAAAAAAAMSK4ELuceOX7_aL0r7KMrnH7ET02J6ion5BZ-fqTVeE
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799524097 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2lhIAAAAAQAAAAEAAAAAAAAAAMSK4ELuceOX7_aL0r7KMrnH7ET02J6ion5BZ-fqTVeE
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799527167 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2pUeAAAAAQAAAAEAAAAAAAAAACId6gomTWZt2v7IuUyqn6DPfQ3X6ZGvwx8_nnmdSexG
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799530326 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2pUeAAAAAQAAAAEAAAAAAAAAACId6gomTWZt2v7IuUyqn6DPfQ3X6ZGvwx8_nnmdSexG
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799533398 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2pUeAAAAAQAAAAEAAAAAAAAAACId6gomTWZt2v7IuUyqn6DPfQ3X6ZGvwx8_nnmdSexG
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799536501 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2pUeAAAAAQAAAAEAAAAAAAAAACId6gomTWZt2v7IuUyqn6DPfQ3X6ZGvwx8_nnmdSexG
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799539557 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2pUeAAAAAQAAAAEAAAAAAAAAACId6gomTWZt2v7IuUyqn6DPfQ3X6ZGvwx8_nnmdSexG
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799542612 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2tF1AAAAAQAAAAEAAAAAAAAAACAKGw3BLTzXRyISAe-mrS2iN5noU4eHYPra3O1iks2E
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799545730 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2tF1AAAAAQAAAAEAAAAAAAAAACAKGw3BLTzXRyISAe-mrS2iN5noU4eHYPra3O1iks2E
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799548785 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2tF1AAAAAQAAAAEAAAAAAAAAACAKGw3BLTzXRyISAe-mrS2iN5noU4eHYPra3O1iks2E
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799551855 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2tF1AAAAAQAAAAEAAAAAAAAAACAKGw3BLTzXRyISAe-mrS2iN5noU4eHYPra3O1iks2E
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799554926 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2tF1AAAAAQAAAAEAAAAAAAAAACAKGw3BLTzXRyISAe-mrS2iN5noU4eHYPra3O1iks2E
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799557992 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2w2FAAAAAQAAAAEAAAAAAAAAAOYqkdYW06JJCjNWCq1qhSHgeQ_yP1EuSLhBnTBfvaQ-
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799561124 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2w2FAAAAAQAAAAEAAAAAAAAAAOYqkdYW06JJCjNWCq1qhSHgeQ_yP1EuSLhBnTBfvaQ-
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799564200 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2w2FAAAAAQAAAAEAAAAAAAAAAOYqkdYW06JJCjNWCq1qhSHgeQ_yP1EuSLhBnTBfvaQ-
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799567386 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2w2FAAAAAQAAAAEAAAAAAAAAAOYqkdYW06JJCjNWCq1qhSHgeQ_yP1EuSLhBnTBfvaQ-
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799570517 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2w2FAAAAAQAAAAEAAAAAAAAAAOYqkdYW06JJCjNWCq1qhSHgeQ_yP1EuSLhBnTBfvaQ-
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799573588 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe20p0AAAAAQAAAAEAAAAAAAAAAMO4Zg1Nt6Kofo-EncqHoM-ed41AGUiP1Wg7dqYDyUnR
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799576704 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe20p0AAAAAQAAAAEAAAAAAAAAAMO4Zg1Nt6Kofo-EncqHoM-ed41AGUiP1Wg7dqYDyUnR
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799579760 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe20p0AAAAAQAAAAEAAAAAAAAAAMO4Zg1Nt6Kofo-EncqHoM-ed41AGUiP1Wg7dqYDyUnR
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799582826 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe20p0AAAAAQAAAAEAAAAAAAAAAMO4Zg1Nt6Kofo-EncqHoM-ed41AGUiP1Wg7dqYDyUnR
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799585889 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe20p0AAAAAQAAAAEAAAAAAAAAAMO4Zg1Nt6Kofo-EncqHoM-ed41AGUiP1Wg7dqYDyUnR
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799588957 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe24Z5AAAAAQAAAAEAAAAAAAAAAPEm1H4DrzxLzvmeP3fsBQeP36N2luYp6PSRauicHgEm
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799592077 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe24Z5AAAAAQAAAAEAAAAAAAAAAPEm1H4DrzxLzvmeP3fsBQeP36N2luYp6PSRauicHgEm
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799595142 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe24Z5AAAAAQAAAAEAAAAAAAAAAPEm1H4DrzxLzvmeP3fsBQeP36N2luYp6PSRauicHgEm
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799598210 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe24Z5AAAAAQAAAAEAAAAAAAAAAPEm1H4DrzxLzvmeP3fsBQeP36N2luYp6PSRauicHgEm
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799601293 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe24Z5AAAAAQAAAAEAAAAAAAAAAPEm1H4DrzxLzvmeP3fsBQeP36N2luYp6PSRauicHgEm
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799604365 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe28KsAAAAAQAAAAEAAAAAAAAAAKdzuErKc2pnpJl5yq_EKOnbDrgHM0dZxv9GnvAdxVS5
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799607493 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe28KsAAAAAQAAAAEAAAAAAAAAAKdzuErKc2pnpJl5yq_EKOnbDrgHM0dZxv9GnvAdxVS5
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799610551 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe28KsAAAAAQAAAAEAAAAAAAAAAKdzuErKc2pnpJl5yq_EKOnbDrgHM0dZxv9GnvAdxVS5
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799613624 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe28KsAAAAAQAAAAEAAAAAAAAAAKdzuErKc2pnpJl5yq_EKOnbDrgHM0dZxv9GnvAdxVS5
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799616727 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe28KsAAAAAQAAAAEAAAAAAAAAAKdzuErKc2pnpJl5yq_EKOnbDrgHM0dZxv9GnvAdxVS5
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799619910 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2_-rAAAAAQAAAAEAAAAAAAAAAOTqoU-Sp-kODdyMxNkUOAEOYRq0Oc9ScjCXSSc59WN9
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799623178 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2_-rAAAAAQAAAAEAAAAAAAAAAOTqoU-Sp-kODdyMxNkUOAEOYRq0Oc9ScjCXSSc59WN9
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799626265 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2_-rAAAAAQAAAAEAAAAAAAAAAOTqoU-Sp-kODdyMxNkUOAEOYRq0Oc9ScjCXSSc59WN9
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799629353 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2_-rAAAAAQAAAAEAAAAAAAAAAOTqoU-Sp-kODdyMxNkUOAEOYRq0Oc9ScjCXSSc59WN9
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799632409 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe2_-rAAAAAQAAAAEAAAAAAAAAAOTqoU-Sp-kODdyMxNkUOAEOYRq0Oc9ScjCXSSc59WN9
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799635469 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe3DwmAAAAAQAAAAEAAAAAAAAAALZVh6QiVXrfLwZIbI59mk2wI7Su0hCz0-GsjGK6dmk4
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799638631 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe3DwmAAAAAQAAAAEAAAAAAAAAALZVh6QiVXrfLwZIbI59mk2wI7Su0hCz0-GsjGK6dmk4
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799641705 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe3DwmAAAAAQAAAAEAAAAAAAAAALZVh6QiVXrfLwZIbI59mk2wI7Su0hCz0-GsjGK6dmk4
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799644782 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe3DwmAAAAAQAAAAEAAAAAAAAAALZVh6QiVXrfLwZIbI59mk2wI7Su0hCz0-GsjGK6dmk4
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799647859 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe3DwmAAAAAQAAAAEAAAAAAAAAALZVh6QiVXrfLwZIbI59mk2wI7Su0hCz0-GsjGK6dmk4
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799650912 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe3Hh7AAAAAQAAAAEAAAAAAAAAANI4x_eZleUDPNZng7KGwzv8qdymqDZb9guV2Jlhpjst
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799654056 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe3Hh7AAAAAQAAAAEAAAAAAAAAANI4x_eZleUDPNZng7KGwzv8qdymqDZb9guV2Jlhpjst
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799657115 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe3Hh7AAAAAQAAAAEAAAAAAAAAANI4x_eZleUDPNZng7KGwzv8qdymqDZb9guV2Jlhpjst
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799660179 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe3Hh7AAAAAQAAAAEAAAAAAAAAANI4x_eZleUDPNZng7KGwzv8qdymqDZb9guV2Jlhpjst
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799663248 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe3Hh7AAAAAQAAAAEAAAAAAAAAANI4x_eZleUDPNZng7KGwzv8qdymqDZb9guV2Jlhpjst
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799666306 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe3LSYAAAAAQAAAAEAAAAAAAAAACabq7urQDN0MSH2C_Kqc6bl7pdH1a3cgqkoeiGV1SHf
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799669409 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe3LSYAAAAAQAAAAEAAAAAAAAAACabq7urQDN0MSH2C_Kqc6bl7pdH1a3cgqkoeiGV1SHf
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799672464 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe3LSYAAAAAQAAAAEAAAAAAAAAACabq7urQDN0MSH2C_Kqc6bl7pdH1a3cgqkoeiGV1SHf
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799675546 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe3LSYAAAAAQAAAAEAAAAAAAAAACabq7urQDN0MSH2C_Kqc6bl7pdH1a3cgqkoeiGV1SHf
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799678612 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe3LSYAAAAAQAAAAEAAAAAAAAAACabq7urQDN0MSH2C_Kqc6bl7pdH1a3cgqkoeiGV1SHf
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799681672 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe3PCfAAAAAQAAAAEAAAAAAAAAACnfZkxWxZl0x1i1876CtqYPWHQWcGqu4ZVgeN8lrE4d
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799684781 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe3PCfAAAAAQAAAAEAAAAAAAAAACnfZkxWxZl0x1i1876CtqYPWHQWcGqu4ZVgeN8lrE4d
+
+TUNNELS
+stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tax-work.gl.at.ply.gg:3384 => 127.0.0.1:3384 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1722799687844 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAArqcwAAAZEe3PCfAAAAAQAAAAEAAAAAAAAAACnfZkxWxZl0x1i1876CtqYPWHQWcGqu4ZVgeN8lrE4d
 
 TUNNELS
 stores-caps.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
