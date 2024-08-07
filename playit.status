@@ -1,2608 +1,466 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 3 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1723044846344 tunnel running, 3 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 3 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1723046987852 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044849411 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723046990912 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044852481 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723046993975 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044855546 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723046997057 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044858614 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047000119 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044861681 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047003188 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044864754 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047006264 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044867815 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047009330 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044870881 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047012487 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044873955 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047015554 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044877018 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047018628 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044880091 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047021772 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044883171 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047024833 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044886239 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047027894 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044889314 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047030956 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044892388 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047034018 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044895459 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047037080 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044898527 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047040146 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044901590 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047043212 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044904659 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047046280 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044907720 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047049343 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044910776 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047052405 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044913831 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047055465 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044916901 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047058529 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044919977 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047061593 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044923047 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047064663 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044926108 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047067726 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044929178 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047070789 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044932241 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047073852 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044935323 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047076965 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044938394 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047080024 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044941466 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047083085 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044944543 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047086154 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044947612 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047089214 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044950679 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047092286 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044953753 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047095346 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044956815 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047098411 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044959876 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047101479 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044962941 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047104541 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044966011 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047107622 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044969071 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047110685 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044972131 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047113747 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044975197 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047116807 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044978260 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047119872 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044981323 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047122958 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044984388 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047126028 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044987465 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047129101 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044990531 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047132166 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044993601 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047135231 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044996661 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047138300 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723044999724 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047141357 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045002791 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047144428 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045005851 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047147494 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045008910 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047150558 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045011969 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047153621 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045015035 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047156694 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045018104 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047159768 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045021165 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047162850 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045024228 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047165916 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045027304 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047168985 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045030369 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047172045 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045033436 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047175108 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045036503 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047178176 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045039564 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047181252 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045042636 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047184324 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045045706 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047187382 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045048778 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045051848 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045054915 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045058001 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045061073 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045064165 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045067259 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045070331 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045073426 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045076503 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045079568 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045082628 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045085689 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045088793 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045091862 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045094933 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045097997 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045101056 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045104116 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045107177 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045110236 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045113304 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045116364 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045119439 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045122501 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045125571 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045128633 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045131693 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045134753 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045137819 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045140875 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045143948 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045147008 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045150103 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045153169 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045156236 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045159308 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045162377 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045165445 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045168516 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045171579 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045174636 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045177694 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045180755 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045183813 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045186873 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045189945 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045193018 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045196086 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045199154 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045202219 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045205288 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045208354 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045211416 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045214487 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045217545 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045220604 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045223665 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045226726 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045229802 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045232873 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045235944 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045239009 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045242073 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045245133 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045248192 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045251256 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045254315 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045257378 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045260450 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045263517 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045266583 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045269653 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045272726 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045275794 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045278865 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045281930 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045284987 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045288055 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045291116 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045294179 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045297248 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045300311 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045303378 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045306443 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045309511 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045312585 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045315653 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045318729 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045321792 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045324854 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045327919 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045330982 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045334055 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045337137 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045340201 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045343280 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045346352 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045349427 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045352486 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045355550 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045358608 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045361665 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045364734 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045367808 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045370873 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045373938 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045377017 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045380096 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045383155 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045386225 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045389286 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045392348 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045395408 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045398468 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045401546 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045404614 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045407681 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045410750 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045413816 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045416880 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045419950 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045423016 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045426084 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045429145 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045432205 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045435265 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045438323 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045441403 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045444467 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045447526 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045450587 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045453654 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045456715 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045459773 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045462833 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045465895 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045468975 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045472040 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045475098 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045478156 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045481216 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045484279 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045487340 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045490400 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045493473 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045496575 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045499638 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045502713 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045505784 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045508855 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045511916 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045514976 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045518038 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045521120 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045524184 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045527243 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045530308 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045533369 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045536428 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045539489 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045542555 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045545629 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045548689 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045551746 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045554815 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045557888 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045560947 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045564002 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045567083 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045570140 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045573203 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045576261 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045579329 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045582394 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045585458 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045588515 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045591582 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045594654 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045597725 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045600795 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045603862 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045606932 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045610009 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045613076 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045616142 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045619217 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045622278 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045625342 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045628409 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045631481 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045634543 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045637606 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045640695 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045643769 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045646847 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045649913 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045652971 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045656031 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045659095 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045662153 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045665220 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045668288 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045671353 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045674421 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045677487 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045680558 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045683631 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045686701 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045689769 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045692858 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045695920 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045698983 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045702046 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045705110 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045708181 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045711243 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045714309 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045717376 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045720444 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045723505 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045726563 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045729625 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045732701 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045735764 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045738844 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045741903 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045744970 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045748050 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045751111 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045754172 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045757233 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045760298 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045763369 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045766439 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045769496 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045772559 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045775616 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045778680 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045781738 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045784805 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045787878 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045790938 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045793998 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045797059 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045800121 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045803183 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045806244 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045809306 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045812363 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045815430 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045818495 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045821566 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045824634 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045827706 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045830797 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045833866 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045836942 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045840009 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045843069 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045846129 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045849193 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045852260 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045855324 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045858389 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045861460 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045864520 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045867581 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045870650 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045873715 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045876771 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045879833 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045882897 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045885975 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045889041 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045892098 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045895168 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045898235 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045901320 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045904449 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045907543 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045910606 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045913664 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045916738 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045919802 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045922864 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045925936 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045929005 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045932077 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045935150 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045938225 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045941293 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045944363 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045947427 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045950510 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045953578 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045956640 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045959702 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045962764 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045965824 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045968892 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045971960 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045975022 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045978080 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045981154 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045984226 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
-sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723045987292 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723047190453 tunnel running, 3 tunnels registered
 
 
 TUNNELS
