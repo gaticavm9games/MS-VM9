@@ -1,504 +1,633 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 3 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1723046987852 tunnel running, 3 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: TooManyRequests
+[2J8[0msecret key valid, agent has 3 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723099952558 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723046990912 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723099955616 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723046993975 tunnel running, 3 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723099970694 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723046997057 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723099973743 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047000119 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723099976794 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047003188 tunnel running, 3 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723099991882 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047006264 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723099994932 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047009330 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723099997981 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047012487 tunnel running, 3 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723100013061 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047015554 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100016117 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047018628 tunnel running, 3 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723100031202 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047021772 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100034254 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047024833 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100037315 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047027894 tunnel running, 3 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723100052401 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047030956 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100055454 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047034018 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100058504 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047037080 tunnel running, 3 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723100073586 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047040146 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100076642 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047043212 tunnel running, 3 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723100091720 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047046280 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100094774 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047049343 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100097827 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047052405 tunnel running, 3 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723100112906 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047055465 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100115955 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047058529 tunnel running, 3 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723100131037 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047061593 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100134107 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047064663 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100137165 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047067726 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100140217 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047070789 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100143270 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047073852 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100146322 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047076965 tunnel running, 3 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723100161411 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047080024 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100164464 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047083085 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100167518 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047086154 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100170574 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047089214 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100173631 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047092286 tunnel running, 3 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723100188768 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047095346 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100191818 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047098411 tunnel running, 3 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723100206913 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047101479 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100209968 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047104541 tunnel running, 3 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723100225051 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047107622 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100228104 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047110685 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100231165 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047113747 tunnel running, 3 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723100246242 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047116807 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100249297 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047119872 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100252349 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047122958 tunnel running, 3 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723100267433 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047126028 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100270486 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047129101 tunnel running, 3 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723100285566 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047132166 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100288617 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047135231 tunnel running, 3 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723100303710 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047138300 tunnel running, 3 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723100318794 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047141357 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100321848 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047144428 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100324898 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047147494 tunnel running, 3 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723100339980 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047150558 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100343043 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047153621 tunnel running, 3 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723100358129 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047156694 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100361184 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047159768 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100364240 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047162850 tunnel running, 3 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723100379315 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047165916 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100382373 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047168985 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100385431 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047172045 tunnel running, 3 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723100400516 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047175108 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100403573 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047178176 tunnel running, 3 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723100418660 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047181252 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100421713 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047184324 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100424765 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047187382 tunnel running, 3 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723100439841 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047190453 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100442901 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047193522 tunnel running, 3 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723100457976 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047196584 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100461028 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047199652 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100464089 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047202711 tunnel running, 3 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723100479181 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723047205773 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723100482232 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
 sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723100497346 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
+sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1723100500397 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
+sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1723100503467 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
+sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723100518546 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
+sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1723100521607 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
+sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
