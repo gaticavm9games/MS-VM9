@@ -3943,3 +3943,17 @@ economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723103611949 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
+sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1723103615002 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+guide-designer.gl.at.ply.gg:4950 => 127.0.0.1:4950 (minecraft-bedrock)
+sales-ivory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+economic-jazz.gl.at.ply.gg:4959 => 127.0.0.1:4959 (proto: Udp, port count: 1)
