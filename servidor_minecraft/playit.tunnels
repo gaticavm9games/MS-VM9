@@ -1,0 +1,149 @@
+{
+  "tcp_alloc": {
+    "allowed": 6,
+    "claimed": 1,
+    "desired": 1
+  },
+  "tunnels": [
+    {
+      "active": true,
+      "alloc": {
+        "data": {
+          "assigned_domain": "sales-ivory.gl.joinmc.link",
+          "assigned_srv": "sales-ivory.gl.joinmc.link",
+          "assignment": {
+            "type": "shared-ip"
+          },
+          "id": "20d732cb-c935-4383-beb1-bb0b26c8e816",
+          "ip_hostname": "20.ip.gl.ply.gg",
+          "ip_type": "both",
+          "port_end": 23932,
+          "port_start": 23931,
+          "region": "global",
+          "static_ip4": "147.185.221.20",
+          "tunnel_ip": "2602:fbaf:0:1::14"
+        },
+        "status": "allocated"
+      },
+      "created_at": "2024-08-05T17:30:07.849929Z",
+      "disabled_reason": null,
+      "domain": null,
+      "expire_notice": null,
+      "firewall_id": null,
+      "id": "fa4372f1-148c-451e-aef7-efa50eb795c6",
+      "name": "Minecraft Java",
+      "origin": {
+        "data": {
+          "agent_id": "ce0b91ad-bb7d-4964-bb9c-41ed563afd67",
+          "agent_name": "from-key-76af",
+          "local_ip": "127.0.0.1",
+          "local_port": 25565
+        },
+        "type": "agent"
+      },
+      "port_count": 1,
+      "port_type": "tcp",
+      "ratelimit": {
+        "bytes_per_second": null,
+        "packets_per_second": null
+      },
+      "region": "global",
+      "tunnel_type": "minecraft-java"
+    },
+    {
+      "active": true,
+      "alloc": {
+        "data": {
+          "assigned_domain": "guide-designer.gl.at.ply.gg",
+          "assigned_srv": null,
+          "assignment": {
+            "type": "shared-ip"
+          },
+          "id": "c7b194d7-2db0-4679-be79-e4ffb981ad48",
+          "ip_hostname": "20.ip.gl.ply.gg",
+          "ip_type": "both",
+          "port_end": 4951,
+          "port_start": 4950,
+          "region": "global",
+          "static_ip4": "147.185.221.20",
+          "tunnel_ip": "2602:fbaf:0:1::14"
+        },
+        "status": "allocated"
+      },
+      "created_at": "2024-08-05T17:30:51.671351Z",
+      "disabled_reason": null,
+      "domain": null,
+      "expire_notice": null,
+      "firewall_id": null,
+      "id": "aceadf00-b57a-4018-9594-b822c56f166f",
+      "name": "Minecraft Bedrock",
+      "origin": {
+        "data": {
+          "agent_id": "ce0b91ad-bb7d-4964-bb9c-41ed563afd67",
+          "agent_name": "from-key-76af",
+          "local_ip": "127.0.0.1",
+          "local_port": 4950
+        },
+        "type": "agent"
+      },
+      "port_count": 1,
+      "port_type": "udp",
+      "ratelimit": {
+        "bytes_per_second": null,
+        "packets_per_second": null
+      },
+      "region": "global",
+      "tunnel_type": "minecraft-bedrock"
+    },
+    {
+      "active": true,
+      "alloc": {
+        "data": {
+          "assigned_domain": "economic-jazz.gl.at.ply.gg",
+          "assigned_srv": null,
+          "assignment": {
+            "type": "shared-ip"
+          },
+          "id": "f20f2bf3-4d32-4657-98a4-40408b3e9a90",
+          "ip_hostname": "20.ip.gl.ply.gg",
+          "ip_type": "both",
+          "port_end": 4960,
+          "port_start": 4959,
+          "region": "global",
+          "static_ip4": "147.185.221.20",
+          "tunnel_ip": "2602:fbaf:0:1::14"
+        },
+        "status": "allocated"
+      },
+      "created_at": "2024-08-07T15:31:12.348809Z",
+      "disabled_reason": null,
+      "domain": null,
+      "expire_notice": null,
+      "firewall_id": null,
+      "id": "7139f122-74ea-4bdb-bb55-364044c1f420",
+      "name": "VoiceChat",
+      "origin": {
+        "data": {
+          "agent_id": "ce0b91ad-bb7d-4964-bb9c-41ed563afd67",
+          "agent_name": "from-key-76af",
+          "local_ip": "127.0.0.1",
+          "local_port": 4959
+        },
+        "type": "agent"
+      },
+      "port_count": 1,
+      "port_type": "udp",
+      "ratelimit": {
+        "bytes_per_second": null,
+        "packets_per_second": null
+      },
+      "region": "global",
+      "tunnel_type": null
+    }
+  ],
+  "udp_alloc": {
+    "allowed": 6,
+    "claimed": 2,
+    "desired": 2
+  }
+}
